@@ -7,6 +7,7 @@
             [clojure.xml :as xml]
             [clojure.zip :as zip]))
 
+(def menu-keys [:id :name])
 
 (def counter-names
   {:tennis "sport.tennis.sports_statistics.page"})
@@ -31,12 +32,18 @@
          :tournament-metadata
          :name (attr :full)))
 
+(defn tournament-ids [sports-data]
+  (xml-> sports-data :tournament
+         :tournament-metadata (attr :tournament-key)))
+
 (defn menu-nodes [sport-id]
-  (tournament-titles-in-full sports-data-file))
+  {:id "id"
+   :name "name"
+   :menu {}})
 
 (defn sport-menu [sport-id]
   {:type "default"
-   :defaultNodeId "not-finsihed"
+   :defaultNodeId (first (tournament-ids sports-data-file))
    :nodes (menu-nodes sport-id)})
 
 (defn sport-data-body [sport-id]
