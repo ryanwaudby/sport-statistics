@@ -36,8 +36,13 @@
   (xml-> sports-data :tournament
          :tournament-metadata (attr :tournament-key)))
 
+(defn menu-node-from-id [id]
+  {:id id
+   :name "name"
+   :menu {}})
+
 (defn menu-nodes [sport-id]
-  (tournament-titles-in-full sports-data-file))
+  (map menu-node-from-id (tournament-ids sports-data-file)))
 
 (defn sport-menu [sport-id]
   {:type "default"
