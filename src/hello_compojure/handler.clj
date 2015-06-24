@@ -7,6 +7,16 @@
             [clojure.xml :as xml]
             [clojure.zip :as zip]))
 
+(defn parse-xml-feed [feed-url]
+  (zip/xml-zip (xml/parse feed-url)))
+
+(def full-priority-order-url
+  "/Users/waudbr01/repos/hello-clojure/full-priority-order.xml")
+
+(def sports-data-file
+  (parse-xml-feed full-priority-order-url))
+
+
 (def counter-names
   {:tennis "sport.tennis.sports_statistics.page"})
 
@@ -16,22 +26,15 @@
 (defn valid-sport? [sport-id]
   (contains? known-sports (keyword sport-id)))
 
-(def full-priority-order-url
-  "/Users/waudbr01/repos/hello-clojure/full-priority-order.xml")
-
-(defn parse-xml-feed [feed-url]
-  (zip/xml-zip (xml/parse feed-url)))
-
-(def sports-data-file
-  (parse-xml-feed full-priority-order-url))
-
 (defn tournament-title-from-id [id]
-  (xml1-> sports-data-file :tournament
-         :tournament-metadata [(attr= :tournament-key id)]
-         :name (attr :full)))
+  (xml1-> sports-data-file
+          :tournament
+          :tournament-metadata [(attr= :tournament-key id)]
+          :name (attr :full)))
 
 (defn tournament-ids [sports-data]
-  (xml-> sports-data :tournament
+  (xml-> sports-data
+         :tournament
          :tournament-metadata (attr :tournament-key)))
 
 (defn menu-node-from-id [id]
@@ -40,7 +43,8 @@
    :menu {}})
 
 (defn menu-nodes [sport-id]
-  (map menu-node-from-id (tournament-ids sports-data-file)))
+  (map menu-node-from-id
+       (tournament-ids sports-data-file)))
 
 (defn sport-menu [sport-id]
   {:type "default"
