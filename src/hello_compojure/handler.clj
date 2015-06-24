@@ -37,9 +37,7 @@
          :tournament-metadata (attr :tournament-key)))
 
 (defn menu-nodes [sport-id]
-  {:id "id"
-   :name "name"
-   :menu {}})
+  (tournament-titles-in-full sports-data-file))
 
 (defn sport-menu [sport-id]
   {:type "default"
