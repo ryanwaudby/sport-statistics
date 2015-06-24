@@ -41,7 +41,7 @@
 
 (defroutes app-routes
   (GET "/statistics/:sport-id" [sport-id] (sport-data sport-id))
-  (route/not-found "Not Found"))
+  (route/not-found {:body {:message "invalid request"}}))
 
 (def app
   (-> (handler/api app-routes)
