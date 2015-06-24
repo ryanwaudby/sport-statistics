@@ -7,8 +7,6 @@
             [clojure.xml :as xml]
             [clojure.zip :as zip]))
 
-(def menu-keys [:id :name])
-
 (def counter-names
   {:tennis "sport.tennis.sports_statistics.page"})
 
@@ -27,9 +25,9 @@
 (def sports-data-file
   (parse-xml-feed full-priority-order-url))
 
-(defn tournament-titles-in-full [sports-data]
-  (xml-> sports-data :tournament
-         :tournament-metadata
+(defn tournament-title-from-id [id]
+  (xml1-> sports-data-file :tournament
+         :tournament-metadata [(attr= :tournament-key id)]
          :name (attr :full)))
 
 (defn tournament-ids [sports-data]
@@ -38,7 +36,7 @@
 
 (defn menu-node-from-id [id]
   {:id id
-   :name "name"
+   :name (tournament-title-from-id id)
    :menu {}})
 
 (defn menu-nodes [sport-id]
