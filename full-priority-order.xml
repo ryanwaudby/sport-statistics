@@ -1,0 +1,710 @@
+<sports-content bbc:query="tournaments" xmlns:bbc="http://www.bbc.co.uk/sport/sports-data" xmlns="http://iptc.org/std/SportsML/2008-04-01/"><sports-metadata language="en-GB" document-class="schedules" fixture-key="schedules:tournaments"/>
+  <tournament>
+    <tournament-metadata tournament-key="CTEI540" tournament-name="Wimbledon" bbc:slug="wimbledon" start-date-time="2015-01-01" end-date-time="2015-12-31" bbc:competitionType="international" bbc:name-priority="20" bbc:group="collated" bbc:match-count="677">
+      <name full="Wimbledon" first="Wimbledon Championships" abbreviation="Wimbledon" bbc:vide-code="WIM"/>
+    </tournament-metadata>
+    <tournament-stage><tournament-stage-metadata bbc:slug="women-doubles" stage-key="CTEI5402015S4" stage-number="4">
+        <name abbreviation="Womens Doubles" bbc:vide-code="Womens Doubles" first="Womens Doubles" full="Womens Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402015S4R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402015S4R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402015S4R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402015S4R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEI5402015S4R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEI5402015S4R6" round-number="6">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="womens-invite-doubles" stage-key="CTEI5402014S11" stage-number="11">
+        <name abbreviation="Womens Over 35 Doubles" bbc:vide-code="Womens Over 35 Doubles" first="Womens Over 35 Doubles" full="Womens Over 35 Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402014S11R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402014S11R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402014S11R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402014S11R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="womens-singles" stage-key="CTEI5402014S3" stage-number="3">
+        <name abbreviation="Womens Singles" bbc:vide-code="Womens Singles" first="Womens Singles" full="Womens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402014S3R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402014S3R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402014S3R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402014S3R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEI5402014S3R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEI5402014S3R6" round-number="6">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="7" round-key="CTEI5402014S3R7" round-number="7">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="girls-singles" stage-key="CTEI5402015S8" stage-number="8">
+        <name abbreviation="Girls Singles" bbc:vide-code="Girls Singles" first="Girls Singles" full="Girls Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402015S8R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402015S8R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402015S8R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402015S8R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEI5402015S8R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEI5402015S8R6" round-number="6">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata stage-number="1" stage-key="CTEI5402015S1" bbc:name-priority="20" start-date-time="2015-01-01" end-date-time="2015-12-31" bbc:slug="mens-singles" bbc:discipline-slug="tennis">
+            <name full="Mens Singles" first="Mens Singles" abbreviation="Mens Singles"/>
+         </tournament-stage-metadata><tournament-round><tournament-round-metadata round-number="1" round-key="CTEI5402015S1R1" round-type="group" bbc:name-priority="20">
+               <name full="Round 1" first="Round 1" abbreviation="Round 1"/>
+            </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402015S1R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402015S1R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402015S1R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEI5402015S1R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEI5402015S1R6" round-number="6">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="7" round-key="CTEI5402015S1R7" round-number="7">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="" stage-key="CTEI5402015S" stage-number="">
+        <name abbreviation="" bbc:vide-code="" first="" full=""/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402015SR1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402015SR2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402015SR3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="mens-invite-doubles" stage-key="CTEI5402014S10" stage-number="10">
+        <name abbreviation="Mens Over 35 Doubles" bbc:vide-code="Mens Over 35 Doubles" first="Mens Over 35 Doubles" full="Mens Over 35 Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402014S10R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402014S10R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402014S10R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402014S10R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="boys-doubles" stage-key="CTEI5402014S7" stage-number="7">
+        <name abbreviation="Boys Doubles" bbc:vide-code="Boys Doubles" first="Boys Doubles" full="Boys Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402014S7R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402014S7R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402014S7R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402014S7R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEI5402014S7R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="mixed-doubles" stage-key="CTEI5402015S5" stage-number="5">
+        <name abbreviation="Mixed Doubles" bbc:vide-code="Mixed Doubles" first="Mixed Doubles" full="Mixed Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402015S5R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402015S5R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402015S5R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402015S5R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEI5402015S5R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEI5402015S5R6" round-number="6">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="wheelchair-womens-doubles" stage-key="CTEI5402015S14" stage-number="14">
+        <name abbreviation="Wheelchair Womens Doubles" bbc:vide-code="Wheelchair Womens Doubles" first="Wheelchair Womens Doubles" full="Wheelchair Womens Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402015S14R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402015S14R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="women-doubles" stage-key="CTEI5402014S4" stage-number="4">
+        <name abbreviation="Womens Doubles" bbc:vide-code="Womens Doubles" first="Womens Doubles" full="Womens Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402014S4R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402014S4R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402014S4R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402014S4R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEI5402014S4R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEI5402014S4R6" round-number="6">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="girls-doubles" stage-key="CTEI5402015S9" stage-number="9">
+        <name abbreviation="Girls Doubles" bbc:vide-code="Girls Doubles" first="Girls Doubles" full="Girls Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402015S9R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402015S9R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402015S9R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402015S9R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEI5402015S9R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="mens-doubles" stage-key="CTEI5402015S2" stage-number="2">
+        <name abbreviation="Mens Doubles" bbc:vide-code="Mens Doubles" first="Mens Doubles" full="Mens Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402015S2R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402015S2R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402015S2R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402015S2R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEI5402015S2R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEI5402015S2R6" round-number="6">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="wheelchair-mens-doubles" stage-key="CTEI5402015S13" stage-number="13">
+        <name abbreviation="Wheelchair Mens Doubles" bbc:vide-code="Wheelchair Mens Doubles" first="Wheelchair Mens Doubles" full="Wheelchair Mens Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402015S13R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402015S13R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="girls-singles" stage-key="CTEI5402014S8" stage-number="8">
+        <name abbreviation="Girls Singles" bbc:vide-code="Girls Singles" first="Girls Singles" full="Girls Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402014S8R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402014S8R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402014S8R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402014S8R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEI5402014S8R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEI5402014S8R6" round-number="6">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata stage-number="1" stage-key="CTEI5402014S1" bbc:name-priority="20" start-date-time="2014-01-01" end-date-time="2014-12-31" bbc:slug="mens-singles" bbc:discipline-slug="tennis">
+            <name full="Mens Singles" first="Mens Singles" abbreviation="Mens Singles"/>
+         </tournament-stage-metadata><tournament-round><tournament-round-metadata round-number="1" round-key="CTEI5402014S1R1" round-type="group" bbc:name-priority="20">
+               <name full="Round 1" first="Round 1" abbreviation="Round 1"/>
+            </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402014S1R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402014S1R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402014S1R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEI5402014S1R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEI5402014S1R6" round-number="6">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="7" round-key="CTEI5402014S1R7" round-number="7">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="boys-singles" stage-key="CTEI5402015S6" stage-number="6">
+        <name abbreviation="Boys Singles" bbc:vide-code="Boys Singles" first="Boys Singles" full="Boys Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402015S6R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402015S6R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402015S6R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402015S6R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEI5402015S6R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEI5402015S6R6" round-number="6">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="wheelchair-womens-doubles" stage-key="CTEI5402014S14" stage-number="14">
+        <name abbreviation="Wheelchair Womens Doubles" bbc:vide-code="Wheelchair Womens Doubles" first="Wheelchair Womens Doubles" full="Wheelchair Womens Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402014S14R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402014S14R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="senior-mens-invite-doubles" stage-key="CTEI5402015S12" stage-number="12">
+        <name abbreviation="Mens Over 45 Doubles" bbc:vide-code="Mens Over 45 Doubles" first="Mens Over 45 Doubles" full="Mens Over 45 Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402015S12R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402015S12R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402015S12R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402015S12R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="mixed-doubles" stage-key="CTEI5402014S5" stage-number="5">
+        <name abbreviation="Mixed Doubles" bbc:vide-code="Mixed Doubles" first="Mixed Doubles" full="Mixed Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402014S5R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402014S5R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402014S5R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402014S5R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEI5402014S5R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEI5402014S5R6" round-number="6">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="womens-singles" stage-key="CTEI5402015S3" stage-number="3">
+        <name abbreviation="Womens Singles" bbc:vide-code="Womens Singles" first="Womens Singles" full="Womens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402015S3R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402015S3R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402015S3R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402015S3R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEI5402015S3R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEI5402015S3R6" round-number="6">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="7" round-key="CTEI5402015S3R7" round-number="7">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="wheelchair-mens-doubles" stage-key="CTEI5402014S13" stage-number="13">
+        <name abbreviation="Wheelchair Mens Doubles" bbc:vide-code="Wheelchair Mens Doubles" first="Wheelchair Mens Doubles" full="Wheelchair Mens Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402014S13R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402014S13R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="womens-invite-doubles" stage-key="CTEI5402015S11" stage-number="11">
+        <name abbreviation="Womens Over 35 Doubles" bbc:vide-code="Womens Over 35 Doubles" first="Womens Over 35 Doubles" full="Womens Over 35 Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402015S11R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402015S11R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402015S11R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402015S11R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="girls-doubles" stage-key="CTEI5402014S9" stage-number="9">
+        <name abbreviation="Girls Doubles" bbc:vide-code="Girls Doubles" first="Girls Doubles" full="Girls Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402014S9R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402014S9R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402014S9R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402014S9R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEI5402014S9R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="mens-doubles" stage-key="CTEI5402014S2" stage-number="2">
+        <name abbreviation="Mens Doubles" bbc:vide-code="Mens Doubles" first="Mens Doubles" full="Mens Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402014S2R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402014S2R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402014S2R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402014S2R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEI5402014S2R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEI5402014S2R6" round-number="6">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="boys-doubles" stage-key="CTEI5402015S7" stage-number="7">
+        <name abbreviation="Boys Doubles" bbc:vide-code="Boys Doubles" first="Boys Doubles" full="Boys Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402015S7R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402015S7R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402015S7R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402015S7R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEI5402015S7R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="senior-mens-invite-doubles" stage-key="CTEI5402014S12" stage-number="12">
+        <name abbreviation="Mens Over 45 Doubles" bbc:vide-code="Mens Over 45 Doubles" first="Mens Over 45 Doubles" full="Mens Over 45 Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402014S12R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402014S12R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402014S12R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402014S12R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="mens-invite-doubles" stage-key="CTEI5402015S10" stage-number="10">
+        <name abbreviation="Mens Over 35 Doubles" bbc:vide-code="Mens Over 35 Doubles" first="Mens Over 35 Doubles" full="Mens Over 35 Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402015S10R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402015S10R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402015S10R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402015S10R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="boys-singles" stage-key="CTEI5402014S6" stage-number="6">
+        <name abbreviation="Boys Singles" bbc:vide-code="Boys Singles" first="Boys Singles" full="Boys Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEI5402014S6R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEI5402014S6R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEI5402014S6R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEI5402014S6R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEI5402014S6R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEI5402014S6R6" round-number="6">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage></tournament><tournament><tournament-metadata date-coverage-type="tournament" date-coverage-value="2015" end-date-time="2015-05-09T23:59:59Z" start-date-time="2015-05-02T00:00:00Z" tournament-key="CTEP343" bbc:group="collated" bbc:match-count="0">
+      <name abbreviation="WTA Mutua Madrid Open" bbc:vide-code="WTA Mutua Madrid Open" first="WTA Mutua Madrid Open" full="WTA Mutua Madrid Open"/>
+    </tournament-metadata><tournament-stage><tournament-stage-metadata bbc:slug="womens-singles" stage-key="CTEP3432015S3" stage-number="3">
+        <name abbreviation="Womens Singles" bbc:vide-code="Womens Singles" first="Womens Singles" full="Womens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP3432015S3R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP3432015S3R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP3432015S3R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP3432015S3R4" round-number="4">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP3432015S3R5" round-number="5">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEP3432015S3R6" round-number="6">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage></tournament><tournament><tournament-metadata date-coverage-type="tournament" date-coverage-value="2015" end-date-time="2015-05-10T23:59:59Z" start-date-time="2015-05-02T00:00:00Z" tournament-key="CTEP41" bbc:group="collated" bbc:match-count="0">
+      <name abbreviation="ATP Mutua Madrid Open" bbc:vide-code="ATP Mutua Madrid Open" first="ATP Mutua Madrid Open" full="ATP Mutua Madrid Open"/>
+    </tournament-metadata><tournament-stage><tournament-stage-metadata bbc:slug="mens-singles" stage-key="CTEP412015S1" stage-number="1">
+        <name abbreviation="Mens Singles" bbc:vide-code="Mens Singles" first="Mens Singles" full="Mens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP412015S1R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP412015S1R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP412015S1R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP412015S1R4" round-number="4">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP412015S1R5" round-number="5">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEP412015S1R6" round-number="6">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage></tournament><tournament><tournament-metadata date-coverage-type="tournament" date-coverage-value="2015" end-date-time="2015-05-17T23:59:59Z" start-date-time="2015-05-11T00:00:00Z" tournament-key="CTEP319" bbc:group="collated" bbc:match-count="0">
+      <name abbreviation="WTA Internazionali BNL d'Italia" bbc:vide-code="WTA Internazionali BNL d'Italia" first="WTA Internazionali BNL d'Italia" full="WTA Internazionali BNL d'Italia"/>
+    </tournament-metadata><tournament-stage><tournament-stage-metadata bbc:slug="womens-singles" stage-key="CTEP3192015S3" stage-number="3">
+        <name abbreviation="Womens Singles" bbc:vide-code="Womens Singles" first="Womens Singles" full="Womens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP3192015S3R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP3192015S3R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP3192015S3R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP3192015S3R4" round-number="4">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP3192015S3R5" round-number="5">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEP3192015S3R6" round-number="6">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage></tournament><tournament><tournament-metadata date-coverage-type="tournament" date-coverage-value="2015" end-date-time="2015-05-17T23:59:59Z" start-date-time="2015-05-10T00:00:00Z" tournament-key="CTEP303" bbc:group="collated" bbc:match-count="0">
+      <name abbreviation="ATP Internazionali BNL d'Italia" bbc:vide-code="ATP Internazionali BNL d'Italia" first="ATP Internazionali BNL d'Italia" full="ATP Internazionali BNL d'Italia"/>
+    </tournament-metadata><tournament-stage><tournament-stage-metadata bbc:slug="mens-singles" stage-key="CTEP3032015S1" stage-number="1">
+        <name abbreviation="Mens Singles" bbc:vide-code="Mens Singles" first="Mens Singles" full="Mens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP3032015S1R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP3032015S1R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP3032015S1R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP3032015S1R4" round-number="4">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP3032015S1R5" round-number="5">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEP3032015S1R6" round-number="6">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage></tournament><tournament><tournament-metadata date-coverage-type="tournament" date-coverage-value="2015" end-date-time="2015-05-23T23:59:59Z" start-date-time="2015-05-17T00:00:00Z" tournament-key="CTEP396" bbc:group="collated" bbc:match-count="0">
+      <name abbreviation="ATP Geneva Open" bbc:vide-code="ATP Geneva Open" first="ATP Geneva Open" full="ATP Geneva Open"/>
+    </tournament-metadata><tournament-stage><tournament-stage-metadata bbc:slug="mens-singles" stage-key="CTEP3962015S1" stage-number="1">
+        <name abbreviation="Mens Singles" bbc:vide-code="Mens Singles" first="Mens Singles" full="Mens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP3962015S1R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP3962015S1R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP3962015S1R3" round-number="3">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP3962015S1R4" round-number="4">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP3962015S1R5" round-number="5">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage></tournament><tournament><tournament-metadata date-coverage-type="tournament" date-coverage-value="2015" end-date-time="2015-05-23T23:59:59Z" start-date-time="2015-05-17T00:00:00Z" tournament-key="CTEP237" bbc:group="collated" bbc:match-count="0">
+      <name abbreviation="WTA Internationaux de Strasbourg" bbc:vide-code="WTA Internationaux de Strasbourg" first="WTA Internationaux de Strasbourg" full="WTA Internationaux de Strasbourg"/>
+    </tournament-metadata><tournament-stage><tournament-stage-metadata bbc:slug="womens-singles" stage-key="CTEP2372015S3" stage-number="3">
+        <name abbreviation="Womens Singles" bbc:vide-code="Womens Singles" first="Womens Singles" full="Womens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP2372015S3R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP2372015S3R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP2372015S3R3" round-number="3">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP2372015S3R4" round-number="4">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP2372015S3R5" round-number="5">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage></tournament><tournament><tournament-metadata date-coverage-type="tournament" date-coverage-value="2015" end-date-time="2015-05-23T23:59:59Z" start-date-time="2015-05-17T00:00:00Z" tournament-key="CTEP356" bbc:group="collated" bbc:match-count="0">
+      <name abbreviation="ATP Open de Nice Cote d' Azur" bbc:vide-code="ATP Open de Nice Cote d' Azur" first="ATP Open de Nice Cote d' Azur" full="ATP Open de Nice Cote d' Azur"/>
+    </tournament-metadata><tournament-stage><tournament-stage-metadata bbc:slug="mens-singles" stage-key="CTEP3562015S1" stage-number="1">
+        <name abbreviation="Mens Singles" bbc:vide-code="Mens Singles" first="Mens Singles" full="Mens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP3562015S1R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP3562015S1R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP3562015S1R3" round-number="3">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP3562015S1R4" round-number="4">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP3562015S1R5" round-number="5">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage></tournament><tournament><tournament-metadata date-coverage-type="tournament" date-coverage-value="2015" end-date-time="2015-06-07T23:59:59Z" start-date-time="2015-05-24T00:00:00Z" tournament-key="CTEP172" bbc:group="collated" bbc:match-count="2">
+      <name abbreviation="French Open" bbc:vide-code="French Open" first="French Open" full="French Open"/>
+    </tournament-metadata><tournament-stage><tournament-stage-metadata bbc:slug="womens-doubles" stage-key="CTEP1722015S4" stage-number="4">
+        <name abbreviation="Womens Doubles" bbc:vide-code="Womens Doubles" first="Womens Doubles" full="Womens Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="QF" round-key="CTEP1722015S4RQF" round-number="QF">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="SF" round-key="CTEP1722015S4RSF" round-number="SF">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP1722015S4R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP1722015S4R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP1722015S4R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP1722015S4R4" round-number="4">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP1722015S4R5" round-number="5">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEP1722015S4R6" round-number="6">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="F" round-key="CTEP1722015S4RF" round-number="F">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="mixed-doubles" stage-key="CTEP1722015S5" stage-number="5">
+        <name abbreviation="Mixed Doubles" bbc:vide-code="Mixed Doubles" first="Mixed Doubles" full="Mixed Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="QF" round-key="CTEP1722015S5RQF" round-number="QF">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="SF" round-key="CTEP1722015S5RSF" round-number="SF">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP1722015S5R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP1722015S5R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP1722015S5R3" round-number="3">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP1722015S5R4" round-number="4">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP1722015S5R5" round-number="5">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="F" round-key="CTEP1722015S5RF" round-number="F">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="mens-singles" stage-key="CTEP1722015S1" stage-number="1">
+        <name abbreviation="Mens Singles" bbc:vide-code="Mens Singles" first="Mens Singles" full="Mens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP1722015S1R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP1722015S1R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP1722015S1R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP1722015S1R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP1722015S1R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEP1722015S1R6" round-number="6">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="7" round-key="CTEP1722015S1R7" round-number="7">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="F" round-key="CTEP1722015S1RF" round-number="F">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="QF" round-key="CTEP1722015S1RQF" round-number="QF">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="SF" round-key="CTEP1722015S1RSF" round-number="SF">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="mens-doubles" stage-key="CTEP1722015S2" stage-number="2">
+        <name abbreviation="Mens Doubles" bbc:vide-code="Mens Doubles" first="Mens Doubles" full="Mens Doubles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP1722015S2R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP1722015S2R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP1722015S2R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP1722015S2R4" round-number="4">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP1722015S2R5" round-number="5">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEP1722015S2R6" round-number="6">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="F" round-key="CTEP1722015S2RF" round-number="F">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="QF" round-key="CTEP1722015S2RQF" round-number="QF">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="SF" round-key="CTEP1722015S2RSF" round-number="SF">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage><tournament-stage><tournament-stage-metadata bbc:slug="womens-singles" stage-key="CTEP1722015S3" stage-number="3">
+        <name abbreviation="Womens Singles" bbc:vide-code="Womens Singles" first="Womens Singles" full="Womens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP1722015S3R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP1722015S3R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP1722015S3R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP1722015S3R4" round-number="4">
+          <name abbreviation="Round 4" bbc:vide-code="Round 4" first="Round 4" full="Round 4"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP1722015S3R5" round-number="5">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEP1722015S3R6" round-number="6">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="7" round-key="CTEP1722015S3R7" round-number="7">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="F" round-key="CTEP1722015S3RF" round-number="F">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="QF" round-key="CTEP1722015S3RQF" round-number="QF">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="SF" round-key="CTEP1722015S3RSF" round-number="SF">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage></tournament><tournament><tournament-metadata date-coverage-type="tournament" date-coverage-value="2015" end-date-time="2015-06-14T23:59:59Z" start-date-time="2015-06-08T00:00:00Z" tournament-key="CTEP49" bbc:group="collated" bbc:match-count="31">
+      <name abbreviation="ATP Mercedes Cup" bbc:vide-code="ATP Mercedes Cup" first="ATP Mercedes Cup" full="ATP Mercedes Cup"/>
+    </tournament-metadata><tournament-stage><tournament-stage-metadata bbc:slug="mens-singles" stage-key="CTEP492015S1" stage-number="1">
+        <name abbreviation="Mens Singles" bbc:vide-code="Mens Singles" first="Mens Singles" full="Mens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP492015S1R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP492015S1R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP492015S1R3" round-number="3">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP492015S1R4" round-number="4">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP492015S1R5" round-number="5">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage></tournament><tournament><tournament-metadata date-coverage-type="tournament" date-coverage-value="2015" end-date-time="2015-06-14T23:59:59Z" start-date-time="2015-06-08T00:00:00Z" tournament-key="CTEP250" bbc:group="collated" bbc:match-count="31">
+      <name abbreviation="WTA Topshelf Open" bbc:vide-code="WTA Topshelf Open" first="WTA Topshelf Open" full="WTA Topshelf Open"/>
+    </tournament-metadata><tournament-stage><tournament-stage-metadata bbc:slug="womens-singles" stage-key="CTEP2502015S3" stage-number="3">
+        <name abbreviation="Womens Singles" bbc:vide-code="Womens Singles" first="Womens Singles" full="Womens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP2502015S3R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP2502015S3R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP2502015S3R3" round-number="3">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP2502015S3R4" round-number="4">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP2502015S3R5" round-number="5">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage></tournament><tournament><tournament-metadata date-coverage-type="tournament" date-coverage-value="2015" end-date-time="2015-06-15T23:59:59Z" start-date-time="2015-06-08T00:00:00Z" tournament-key="CTEP394" bbc:group="collated" bbc:match-count="31">
+      <name abbreviation="WTA Aegon Nottingham Open" bbc:vide-code="WTA Aegon Nottingham Open" first="WTA Aegon Nottingham Open" full="WTA Aegon Nottingham Open"/>
+    </tournament-metadata><tournament-stage><tournament-stage-metadata bbc:slug="womens-singles" stage-key="CTEP3942015S3" stage-number="3">
+        <name abbreviation="Womens Singles" bbc:vide-code="Womens Singles" first="Womens Singles" full="Womens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP3942015S3R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP3942015S3R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP3942015S3R3" round-number="3">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP3942015S3R4" round-number="4">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP3942015S3R5" round-number="5">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage></tournament><tournament><tournament-metadata date-coverage-type="tournament" date-coverage-value="2015" end-date-time="2015-06-14T23:59:59Z" start-date-time="2015-06-08T00:00:00Z" tournament-key="CTEP117" bbc:group="collated" bbc:match-count="31">
+      <name abbreviation="ATP Topshelf Open" bbc:vide-code="ATP Topshelf Open" first="ATP Topshelf Open" full="ATP Topshelf Open"/>
+    </tournament-metadata><tournament-stage><tournament-stage-metadata bbc:slug="mens-singles" stage-key="CTEP1172015S1" stage-number="1">
+        <name abbreviation="Mens Singles" bbc:vide-code="Mens Singles" first="Mens Singles" full="Mens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP1172015S1R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP1172015S1R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP1172015S1R3" round-number="3">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP1172015S1R4" round-number="4">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP1172015S1R5" round-number="5">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage></tournament><tournament><tournament-metadata date-coverage-type="tournament" date-coverage-value="2015" end-date-time="2015-06-21T23:59:59Z" start-date-time="2015-06-15T00:00:00Z" tournament-key="CTEP129" bbc:group="collated" bbc:match-count="31">
+      <name abbreviation="ATP AEGON Championships" bbc:vide-code="ATP AEGON Championships" first="ATP AEGON Championships" full="ATP AEGON Championships"/>
+    </tournament-metadata><tournament-stage><tournament-stage-metadata bbc:slug="mens-singles" stage-key="CTEP1292015S1" stage-number="1">
+        <name abbreviation="Mens Singles" bbc:vide-code="Mens Singles" first="Mens Singles" full="Mens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="QF" round-key="CTEP1292015S1RQF" round-number="QF">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="SF" round-key="CTEP1292015S1RSF" round-number="SF">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP1292015S1R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP1292015S1R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP1292015S1R3" round-number="3">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP1292015S1R4" round-number="4">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP1292015S1R5" round-number="5">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="F" round-key="CTEP1292015S1RF" round-number="F">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage></tournament><tournament><tournament-metadata date-coverage-type="tournament" date-coverage-value="2015" end-date-time="2015-06-21T23:59:59Z" start-date-time="2015-06-15T00:00:00Z" tournament-key="CTEP227" bbc:group="collated" bbc:match-count="63">
+      <name abbreviation="WTA Aegon Classic" bbc:vide-code="WTA Aegon Classic" first="WTA Aegon Classic" full="WTA Aegon Classic"/>
+    </tournament-metadata><tournament-stage><tournament-stage-metadata bbc:slug="womens-singles" stage-key="CTEP2272015S3" stage-number="3">
+        <name abbreviation="Womens Singles" bbc:vide-code="Womens Singles" first="Womens Singles" full="Womens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="QF" round-key="CTEP2272015S3RQF" round-number="QF">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="SF" round-key="CTEP2272015S3RSF" round-number="SF">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP2272015S3R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP2272015S3R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP2272015S3R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP2272015S3R4" round-number="4">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP2272015S3R5" round-number="5">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="6" round-key="CTEP2272015S3R6" round-number="6">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="F" round-key="CTEP2272015S3RF" round-number="F">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage></tournament><tournament><tournament-metadata date-coverage-type="tournament" date-coverage-value="2015" end-date-time="2015-06-21T23:59:59Z" start-date-time="2015-06-15T00:00:00Z" tournament-key="CTEP27" bbc:group="collated" bbc:match-count="31">
+      <name abbreviation="ATP Gerry Weber Open" bbc:vide-code="ATP Gerry Weber Open" first="ATP Gerry Weber Open" full="ATP Gerry Weber Open"/>
+    </tournament-metadata><tournament-stage><tournament-stage-metadata bbc:slug="mens-singles" stage-key="CTEP272015S1" stage-number="1">
+        <name abbreviation="Mens Singles" bbc:vide-code="Mens Singles" first="Mens Singles" full="Mens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="QF" round-key="CTEP272015S1RQF" round-number="QF">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="SF" round-key="CTEP272015S1RSF" round-number="SF">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP272015S1R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP272015S1R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP272015S1R3" round-number="3">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="4" round-key="CTEP272015S1R4" round-number="4">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="5" round-key="CTEP272015S1R5" round-number="5">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="F" round-key="CTEP272015S1RF" round-number="F">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage></tournament><tournament><tournament-metadata date-coverage-type="tournament" date-coverage-value="2015" end-date-time="2015-06-27T23:59:59Z" start-date-time="2015-06-21T00:00:00Z" tournament-key="CTEP397" bbc:group="collated" bbc:match-count="39">
+      <name abbreviation="WTA Aegon International" bbc:vide-code="WTA Aegon International" first="WTA Aegon International" full="WTA Aegon International"/>
+    </tournament-metadata><tournament-stage><tournament-stage-metadata bbc:slug="womens-singles" stage-key="CTEP3972015S3" stage-number="3">
+        <name abbreviation="Womens Singles" bbc:vide-code="Womens Singles" first="Womens Singles" full="Womens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP3972015S3R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP3972015S3R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP3972015S3R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="F" round-key="CTEP3972015S3RF" round-number="F">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="QF" round-key="CTEP3972015S3RQF" round-number="QF">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="SF" round-key="CTEP3972015S3RSF" round-number="SF">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage></tournament><tournament><tournament-metadata date-coverage-type="tournament" date-coverage-value="2015" end-date-time="2015-06-27T23:59:59Z" start-date-time="2015-06-21T00:00:00Z" tournament-key="CTEP390" bbc:group="collated" bbc:match-count="35">
+      <name abbreviation="ATP AEGON Nottingham Open" bbc:vide-code="ATP AEGON Nottingham Open" first="ATP AEGON Nottingham Open" full="ATP AEGON Nottingham Open"/>
+    </tournament-metadata><tournament-stage><tournament-stage-metadata bbc:slug="mens-singles" stage-key="CTEP3902015S1" stage-number="1">
+        <name abbreviation="Mens Singles" bbc:vide-code="Mens Singles" first="Mens Singles" full="Mens Singles"/>
+      </tournament-stage-metadata><tournament-round><tournament-round-metadata bbc:round-order="1" round-key="CTEP3902015S1R1" round-number="1">
+          <name abbreviation="Round 1" bbc:vide-code="Round 1" first="Round 1" full="Round 1"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="2" round-key="CTEP3902015S1R2" round-number="2">
+          <name abbreviation="Round 2" bbc:vide-code="Round 2" first="Round 2" full="Round 2"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="3" round-key="CTEP3902015S1R3" round-number="3">
+          <name abbreviation="Round 3" bbc:vide-code="Round 3" first="Round 3" full="Round 3"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="F" round-key="CTEP3902015S1RF" round-number="F">
+          <name abbreviation="Final" bbc:vide-code="Final" first="Final" full="Final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="QF" round-key="CTEP3902015S1RQF" round-number="QF">
+          <name abbreviation="Quarter-final" bbc:vide-code="Quarter-final" first="Quarter-final" full="Quarter-final"/>
+        </tournament-round-metadata></tournament-round><tournament-round><tournament-round-metadata bbc:round-order="SF" round-key="CTEP3902015S1RSF" round-number="SF">
+          <name abbreviation="Semi-final" bbc:vide-code="Semi-final" first="Semi-final" full="Semi-final"/>
+        </tournament-round-metadata></tournament-round></tournament-stage></tournament></sports-content>
