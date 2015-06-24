@@ -7,6 +7,10 @@
             [clojure.xml :as xml]
             [clojure.zip :as zip]))
 
+
+(def counter-names
+  {:tennis "sport.tennis.sports_statistics.page"})
+
 (def known-sports
   {:tennis "tennis"})
 
@@ -22,21 +26,30 @@
 (def sports-data-file
   (parse-xml-feed full-priority-order-url))
 
-(defn tournament-titles [sports-data]
+(defn tournament-titles-in-full [sports-data]
   (xml-> sports-data :tournament
          :tournament-metadata
          :name (attr :full)))
 
+(defn menu-nodes [sport-id]
+  (tournament-titles-in-full sports-data-file))
+
+(defn sport-menu [sport-id]
+  {:type "default"
+   :defaultNodeId "not-finsihed"
+   :nodes (menu-nodes sport-id)})
+
 (defn sport-data-body [sport-id]
   {:id (get known-sports (keyword sport-id))
-   :events (tournament-titles sports-data-file)})
+   :menu (sport-menu sport-id)
+   :counterName (get counter-names (keyword sport-id))})
 
-(def invalid-request {:status 400 :body { :message "unknown sport" }})
+(def invalid-request {:status 400
+                      :body {:message "unknown sport"}})
 
 (defn sport-data [sport-id]
   (if (valid-sport? sport-id)
-    {:status 200
-     :body (sport-data-body sport-id)}
+    {:body (sport-data-body sport-id)}
     invalid-request))
 
 (defroutes app-routes
