@@ -11,7 +11,7 @@
   (zip/xml-zip (xml/parse feed-url)))
 
 (def full-priority-order-url
-  "/Users/waudbr01/repos/hello-clojure/full-priority-order.xml")
+  "full-priority-order.xml")
 
 (def sports-data-file
   (parse-xml-feed full-priority-order-url))
