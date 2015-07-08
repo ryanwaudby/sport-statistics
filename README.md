@@ -1,4 +1,4 @@
-# hello-compojure
+# sport statistics
 
 FIXME
 

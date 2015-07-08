@@ -1,4 +1,4 @@
-(ns hello-compojure.handler
+(ns sport-statistics.handler
   (:use [clojure.data.zip.xml])
   (:require [compojure.core :refer :all]
             [compojure.handler :as handler]
@@ -15,7 +15,6 @@
 
 (def sports-data-file
   (parse-xml-feed full-priority-order-url))
-
 
 (def counter-names
   {:tennis "sport.tennis.sports_statistics.page"})

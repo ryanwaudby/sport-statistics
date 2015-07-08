@@ -1,7 +1,7 @@
-(ns hello-compojure.handler-test
+(ns sport-statistics.handler-test
   (:require [clojure.test :refer :all]
             [ring.mock.request :as mock]
-            [hello-compojure.handler :refer :all]))
+            [sport-statistics.handler :refer :all]))
 
 (deftest test-app
   (testing "main tennis route"
